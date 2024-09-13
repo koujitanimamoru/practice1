@@ -376,6 +376,16 @@ footer {
 	margin-bottom: 1rem;	/*下に空けるスペース*/
 }
 
+.faq table{
+	margin-left: 3rem;
+	margin-bottom: 1rem;
+	border-color: #ffffff;
+	
+}
+
+.faq td{
+	padding: 1px;
+}
 
 /*テーブル（ta1）
 ---------------------------------------------------------------------------*/
